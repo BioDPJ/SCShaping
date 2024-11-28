@@ -1,4 +1,4 @@
-# Vectorized building extraction from high-resolution remote sensing images using spatial cognitive graph convolution model
+# Vectorized building extraction from high-resolution remote sensing images using spatial cognitive graph convolution model (SCShaping)
 Zhuotong Du, Haigang Sui*, Qiming Zhou, Mingting Zhou, Weiyue Shi, Jianxun Wang, Junyi Liu
 ****
 ![image](research_area.png)
